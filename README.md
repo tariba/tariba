@@ -10,7 +10,7 @@ Specialities: ➢ Team Leadership ➢ Creative Problem solving ➢ Effective Ris
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tariqxa@gmail.com](mailto:tariqxa@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Python
 
 ### Skills
 
