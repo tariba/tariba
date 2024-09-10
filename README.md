@@ -8,7 +8,7 @@ I am a highly effective Junior Full Stack Developer; a career changer with a gro
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tariqxa@gmail.com](mailto:tariqxa@gmail.com)
-* 🧠  I'm learning React Native, AWS Cloud Practitioner, Data Structure
+* 🧠  I'm learning Linux, Bash scripting and Python 
 
 ### Skills
 
