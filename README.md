@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I am a highly effective Junior Full Stack Developer; a career changer with a growth mindset and a passion for building ethical next-generation technologies. I am a natural problem solver with a curious nature who learns fast and has strong time management and multi-tasking skills; driving product success and process efficiency. My effective communication and interpersonal skills make me a valuable and personable team player who is seeking to contribute to the future successes of an organisation.
+I am a highly effective Full Stack Developer; a career changer with a growth mindset and a passion for building ethical next-generation technologies. I am a natural problem solver with a curious nature who learns fast and has strong time management and multi-tasking skills; driving product success and process efficiency. My effective communication and interpersonal skills make me a valuable and personable team player who is seeking to contribute to the future successes of an organisation.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [tariqxa@gmail.com](mailto:tariqxa@gmail.com)
